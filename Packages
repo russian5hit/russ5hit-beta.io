@@ -1,0 +1,13 @@
+Package: com.russ5hit.localiapstore
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Ru5 <thisiisshit@bk.ru>
+Filename: /LocaliapStore.deb
+Size: 71170
+MD5sum: ADCE93B64675706F4A4C4B5204A1E8FE
+SHA1: C9BB6D2749F5D065E9C29A2A39CF233A3A1465D2
+SHA256: 97D20EBC8F9D96DA6F4749499BE4664D7AB946D469439B7AB04AF1E167AFACA2
+Section: Tweaks
+Description: Free in-app purchases!
+Author: Ru5 <thisiisshit@bk.ru>
+Name: LocalinapStore
